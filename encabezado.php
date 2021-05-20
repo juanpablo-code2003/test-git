@@ -10,7 +10,7 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-success mb-4">
-        <a href="#" class="navbar-brand">Empleados</a>
+        <a href="#" class="navbar-brand">Empleados AJAX</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
