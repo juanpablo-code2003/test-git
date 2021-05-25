@@ -1,7 +1,7 @@
     <div class="container-fluid bg-success text-light text-center p-2">
-        <h3>Taller AJAX</h3>
         <h4>ADSI 2055005</h4>
         <p>Copyright &copy; SENA 2021. Todos los derechos reservados.</p>
+        <p>Un ejemplo</p>
     </div>
     
     

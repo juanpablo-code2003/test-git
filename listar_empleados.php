@@ -14,9 +14,9 @@ $empleados = $query->fetchAll(PDO::FETCH_OBJ);
             <thead class="thead-dark">
                 <tr>
                     <th>Cédula</th>
-                    <th>Nombre</th>
-                    <th>Apellido</th>
-                    <th>Correo</th>
+                    <th>Nombres</th>
+                    <th>Apellidos</th>
+                    <th>Email</th>
                     <th>Teléfono</th>
                     <th>Contrato</th>
                     <th>Salario COP</th>
